@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the widows in and about London and Westminster for a redress of their grievances / by the same sollicitor that drew up the petition for the ladies.</title>
+            <author>Same sollictor that drew up the petition for the ladies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54560</idno>
+            <idno type="STC">Wing P1839</idno>
+            <idno type="STC">ESTC R25582</idno>
+            <idno type="EEBO-CITATION">09025112</idno>
+            <idno type="OCLC">ocm 09025112</idno>
+            <idno type="VID">42258</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42258)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1292:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the widows in and about London and Westminster for a redress of their grievances / by the same sollicitor that drew up the petition for the ladies.</title>
+                  <author>Same sollictor that drew up the petition for the ladies.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the use of the wide---o's,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Petition of the ladies of London and Westminster.</term>
+               <term>Marriage --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:42258:1"/>
+            <pb facs="tcp:42258:1"/>
+            <head>The Petition of the WIDOWS, in and about <hi>London</hi> and <hi>Weſtminſter</hi> for a Redreſs of their Grievances.</head>
+            <head type="sub">By the ſame Sollicitor that drew up the Petition for the Ladies.</head>
+            <p>LAſt Week a Petition ſubſcribed by the unmarried Ladies came before you, and what reception it found your ſelves know beſt. 'Tis true we wondered to find an Army of Maids, from whom the World uſually expects modeſty and ſilence, ſo emboldened on the ſudden as to petition for Husbands, and that in the face of the World. Widows in<g ref="char:EOLhyphen"/>deed who lye under no ſuch Reſtrictions, are allowed in all Countries to ſpeak for them<g ref="char:EOLhyphen"/>ſelves; and 'tis but reaſonable we ſhould, for few beſides will ſubmit to the Trouble. 'Tis our Privilege to be obſtreperous when we are not heard; and there is one of our Predeceſſors upon Record in the New Teſtament, who by Virtue of her everlaſting Clack, forced an old muſty Gentleman of the long Robe at laſt to grant her Requeſt.</p>
+            <p>Now Heaven be praiſed, we are not unacquainted with Mankind, which the Maids, we ſup<g ref="char:EOLhyphen"/>poſe, won't pretend to; and therefore may appeal to them without infringing the Rules of Decency: We have ſeen them in their beſt and weakeſt Intervals. We know what Weapons they carry about them, and how often they can diſcharge in an Engagement. We have in our times had very ſevere Conflicts with them, and ſometimes they were uppermoſt, and then they fell on like Thunder and Lightning; but for all that your Petitioners obliged them ſoon to quit the Field, and leave part of their Ammunition behind them. Give us leave, good Gentlemen, to talk of theſe our Combats; for we always fought upon the ſquare, and therefore have no reaſon to be aſhamed of a recital. As we hinted to you before, we have been concerned in ſeveral fierce Engagements, and the Men play'd their Sharps a<g ref="char:EOLhyphen"/>gainſt us when we cou'd only produce Flats on our ſide; and, beſides, they drew their heavy Canon upon us, while we were forced to lye by and receive their ſhot. After all, though we were ſo diſadvantageouſly ſet upon, and the Blood ſhed that happened in theſe Occaſions was always on our part; yet when the Fortune of the Battle began to change, and declare herſelf in favour of us, we never treated them otherwiſe than Chriſtians; we never nailed up their Canon when we had it in our poſſeſſion, ſo to render it unſerviceable for the future, but gave them time to recover breath again, and furniſh themſelves with a new Train of Artillery: Is not this a generous and honourable way of treating an Enemy? In ſhort (the Devil take that
+<pb facs="tcp:42258:2"/>Word <hi>ſhort,</hi> for your Petitioners mortally hate it) But in fine, we have been intimate with the Men, and the Men have been no leſs intimate with us; but what is the chief Errand that ſent us here, we have every Woman of us buried her reſpective Man.</p>
+            <p>Not that we value our ſelves upon that ſcore, for God forbid we ſhould; but Widows will ſpeak the Truth let the conſequence be what it will, and ſhould you make ten thouſand Acts to oblige us to hold our Tongues, it would ſignifie juſt nothing, we ſhould break them all in a moment, and that with as much Alacrity as the Vintners in Town daily break the Adultery-Act. Well then we have all of us buried her reſpective Man, which we mention not, Heaven knows our Hearts, out of Odentation, but with due Grief and Sorrow. We know a Man's value too well not to regret the loſs of ſo ſerviceable a Creature. We had all of us good able Husbands, at leaſt we'll ſay ſo now they are gone; and though perhaps we had ſome reaſon to complain of them when they were alive, yet we forgive them all their Faults and Infirmities, for that ſingle good natured Act of dying, and leaving us once more to our ſelves.</p>
+            <p>The fooliſh People of <hi>Athens</hi> after they had loſt a good King, would have no more of the kind, forſooth, leſt a bad one ſhould ſucceed him. But your Petitioners are not ſuch a ſcrupulous ſort of People: We that have had good Husbands, are encouraged to try once more, out of hopes of meeting the ſame Sacceſs; and we that have had bad ones, are not for all that deterr'd from Matrimony, but hope to mend our hands in a ſecond Bargain. After all, ſhould we be deceived in our Expectations, the firſt may afford to undergo a little Penance ſince they were ſo happy before; and the latter being accuſtomed of old to bear Burdens, are therefore the better enabled to ſupport themſelves under them.</p>
+            <p>The Body of your Petitioners (for after ſo much Preface it is high time to come to buſi<g ref="char:EOLhyphen"/>neſs) conſiſts of four ſeveral Claſſes; <hi>viz.</hi> the old Widows, the young or middle aged Wi<g ref="char:EOLhyphen"/>dows, the rich Widows, and the poor Widows, and each of them preſents you with a different Petition.</p>
+            <p>To begin then with the old Widows, (and that preheminence is due to them upon the ſcore of their Age and Experience) they humbly ſupplicate that you would he pleaſed to take their miſerable Condition into Conſideration. Old People according to the Proverb are twice Children; What wonder is it then if they ſtill have a hankering after Childiſh Playthings, and long to have their Gums rubb'd with Coral? Pray don't miſtake them, good Gentlemen, they mean it in a lawful, Matrimonial Senſe, and hope you will not cenſure or think the worſe of them for uſing this Freedom. They appeal to all the World who it is that moſt ſtand in want of warm, comfortable things, the young or the old: That 'tis the greateſt Charity to relieve the laſt, needs no formal proof, all the Hoſpitals in the Kingdom ſpeak as much; but alas in this uncharitable Age they don't expect to meet with many Friends. Upon this Conſideration they intirely ſubmit themſelves to the Mercy of the Houſe, not preſuming to carry their Petition ſo high as to requeſt you to force people to marry them but only that you would recommend their Caſe to the benevolence of thoſe Perſons, who having lived wickedly and at large all their Life-time, are willing to compound for their S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, and do Acts of ſupererrogation in the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scene of it. No<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are they difficult in their choice, they will ſit down content with any thin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Cripples with Wooden L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs will be che<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rful<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y certained if they have received no damage in the diſtinguiſhing part.</p>
+            <p>Next to theſe come the rich Widows, and they earneſtly beg of your Honourable Houſe that you would make it Felony without Benefit of the Clergy, for any one to make Court to them before the mournful Twelfth month is expired. They are ſo perpetually pe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tered with S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tors of all Comple<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, that they dan neither eat, nor ſleep, nor pray for them. A new
+<pb facs="tcp:42258:2"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>av<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Servants in a morning at <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Pay-Office a greater crowd of ſurly, grumbling Seamen than they have. Nay, ſome of their paſſionate Admirers have had the Impudence to accoſt them upon this Chapter as they have been following their Husband's Corps to the Grave, in the very heighth of their Sorrow, and in the mid'ſt of the Funeral-Pomp<g ref="char:punc">▪</g> If you think it too ſevere to make it Felony in Perſons ſo offending, they deſire you to commute the Puniſhment, and oblige every Perſon treſpaſſing after that manner to marry ſome poor Widow as fancy inclines him; Which is all the Favour that the poor Widows beg at your hands.</p>
+            <p>And now comes up the main Body of the young and middle aged Widows, who as they are by far the moſt numerous, eſpecially ſince the Wars have made ſuch havock among the Husbands; ſo they crave leave to lay their Petitions at your feet. But before they do that, they think it convenient to remove all thoſe popular Slanders and Objections, which ill natured People have been long accuſtomed to level againſt Widows in general; and becauſe their Ad<g ref="char:EOLhyphen"/>verſaries ſhall have no reaſon to complain that their Arguments are mangled, they will urge them as home as either themſelves or their beſt Advocates could do it for them.</p>
+            <p>'Tis in the firſt place pretended that Widows want ſeveral of thoſe Recommendations that ſet off the Sex, and particularly a Maiden head, without which no Wife they ſay can be ac<g ref="char:EOLhyphen"/>ceptable; that they are ſtill trumping up Stories of their former Husbands, purpoſely to con<g ref="char:EOLhyphen"/>front their new ones, and ſo exceſſively talkative that nothing but Deafneſs is an Antidote againſt the Noiſe; that marrying a Widow is like ſplitting upon a Rock where others have been ſhip-wracked before. After this they run the Metaphor into <hi>Long-Lane,</hi> Second-hand Gloves, Cloaths of another's wearing, and the Lord knows what impertinent Stuff: But we ſhall anſwer them all in order.</p>
+            <p>To begin then with the loſs of a Maidenhead, about which they make ſo horrid a Cla<g ref="char:EOLhyphen"/>mour, we could tell them ſad Stories of ſeveral of their Betters that on the Wedding-night have fanſied they have dug up this ſame Chimerical Treaſure, though it was ſtolen many Months before; nay, we have a hundred and more of our Company here, that if occaſion were, cou'd atteſt this upon their own perſonal knowledge. So certain it is that the niceſt Criticks among the Men may be as eaſily impoſed upon in this Affair, as your pretenders to Antiquity in counterfeit Medals. But if no Woman can pleaſe them without this imaginary Wealth (and indeed 'tis no more, for moſt People take it upon Truſt) we ſee no reaſon why a young Widow may not be as capable of obliging them as the beſt Virgin in the World. 'Tis but uſing a few Aſtringents before, and, at the critical Minute, crying out, <hi>Fie, Sir, pray, Sir, will you ſplit me up? will you murder me alive? Can you take any pleaſure in what is ſo painful to another?</hi> And the Sparks are ſatisfied they have made a real Sacrifice, though in Truth no more Blood was ſhed in the Encounter, than we ſee upon the Stage when one Actor kills another. If this is their dear Diverſion (and by the bye 'tis a ſure ſign of their ill Nature that they cannot be pleaſed but at the expence of the Party, whom they pre<g ref="char:EOLhyphen"/>tend to love ſo dearly) rather than loſe them, we promiſe them to howl, and ſigh, and roar every Night in the Year, as heartily as an Ox, when he's led to the Slaughter-houſe, and ſo entertain them ſtill with the Ceremony, at leaſt, of their dearly beloved Maiden-Head.</p>
+            <p>In the next place why ſhould we not be permitted to refreſh the Memory of a dull lazy husband with the noble performances of his Predeceſſors. The men in <hi>K. Charles</hi> the Second's Raign took the liberty to talk of the Glorious Conqueſts of our former fighting Monarchs, and yet for all that thought themſelves as good Subjects as any in the kingdom. If the reproof is juſt where a God's name lies the harm, and ſurely the Wife muſt be allowed to be the beſt judge of that affair. <hi>Oh no,</hi> ſay they, <hi>'tis not the Horſe but the Man that beſt knows whether he ride<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eaſie,</hi> Content: <hi>But does not the Horſe likewiſe know whether his Rider carries true
+<pb facs="tcp:42258:3"/>Horſeman's weight, and whether he ſits even in the Saddle.</hi> If not, why wou'd <hi>Bucepha<g ref="char:EOLhyphen"/>lus</hi> ſuffer himſelf to be backed by none but <hi>Alexander</hi> the Great?</p>
+            <p>But then <hi>we are exceſſive talkative.</hi> So are they, and ſo are moſt of our Sex, but eſpeci<g ref="char:EOLhyphen"/>ally the longing Maids, and under correction, if it is a Sin we are of opinion it ſits better upon us than upon them. This is not all, <hi>Marrying a Widow is like ſpliting upon a Rock where others have been Shipwrack'd.</hi> Well, we are glad however 'tis like ſomething. But ſince one ſimily is b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt drove out by another. Why not, <hi>like drinking in a room where ſome honeſt Gentleman has made merry before.</hi> Since nothing will go down with theſe Squamiſh Creatures in the Matrimonial way but a ſpick and ſpan new Virgin, we wonder why they don't keep up the frolick in every thing elſe; why as often as they drink they don't call ſtill for a Virgin Glaſs; why they don't every Meal call for a Virgin Plate; why they don't ſtill pull out a Virgin Snuff-box, lye in Virgin Sheets, talk Politicks in a Virgin Coffee-Houſe, and purſue their dearly beloved variety to the end of the Chapter. Laſtly, their indignation riſes at the thoughts of <hi>Long-lane, and all Second-hand things whatever.</hi> If the Sparks are re<g ref="char:EOLhyphen"/>ſolved to he true to their Argument, we are well ſatisfied they muſt e'en ſay good night to all thinking and writing and talking: For at preſent they Think at Second-hand, and Write and Talk at Second-hand, and this objection, as terrible as it looks, is a thred bare weather-beaten Second-hand Objection with a witneſs.</p>
+            <p>A late Monarch of happy Memory, who was inferior to none but <hi>Solomon</hi> in Natural Phi<g ref="char:EOLhyphen"/>loſophy, and chiefly in what relates to our Sex, was often heard to ſay, that getting of a Maiden Head was a drudgery fit for none but Porters, We ſave all that labour and pains, for there needs no great trouble to enter a City when a Breach is once made in the Walls, and our Husbands have that ſatisfaction as to ſee their ground ploughed up ready to their hands. To conclude all, a Widow is a tryed Gun, and carries the Tower Mark upon her; now who knows but a Maid may ſplit in the proving.</p>
+            <p>Having thus juſtified the State of Widowhood againſt all the objections that are uſed to be made againſt it, we have nothing more to add, but that you'd be pleaſed to give your conſent to the three following Articles.</p>
+            <p>
+               <hi>Firſt,</hi> That all Perſons who are not of known parts and abilities, may not only be rendred uncapable of marrying Maids or ſuch as are reputed Maids, but confined to the choice of Wi<g ref="char:EOLhyphen"/>dows only. This we requeſt not ſo much for our own advantage, as for the eaſe of the Men; for you know ſeveral people can make a ſhift to keep the King's high way, that are not able to leap a Ditch or break open a Quickſet.</p>
+            <p>
+               <hi>Secondly,</hi> That all Perſons reſolving to marry before the age of twenty one, if they have made no Natural Experiments before that time, ſhall be likewiſe obliged to take a Widow, as they do Pilots in difficult or unknown places. 'Tis an ancient but well grounded complaint, that where two Maiden Heads meet they produce nothing but meer Butter Prints, addle-pated Fops, and dull ſenſeleſs ſleepy Boobies. Now if you paſs this into an Act, in all probability it will contribute much to the improving of our preſent degenerate Race, and certainly if ever we wanted ſolid heads, 'tis at this conjuncture.</p>
+            <p>
+               <hi>Thirdly,</hi> and <hi>Laſtly,</hi> That all Widows during their Widow-hood may be excuſed from the Taxes, for is it not hard, good Gentlemen, to pay four Shillings in the Pound for empty Houſes. We hope you will conſider farther of theſe our reaſonable Supplications.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioners as in Duty,</hi> &amp;c</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Uſe of the Wide———o's, 1693.</p>
+            <pb facs="tcp:42258:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
